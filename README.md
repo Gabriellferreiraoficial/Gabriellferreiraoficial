@@ -17,9 +17,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Biel-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
-          
-  <img align="right" alt="" height="150" style="border-radius:50px;" src="">
+  <img align="center" alt="Biel-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">       
+  <img align="right" alt="" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/86086899/171488489-2e6edacc-03fd-4f4c-8c70-0a61fe31ca58.jpg">
 </div>
   
   ##

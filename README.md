@@ -1,7 +1,7 @@
 ## Olá! Eu sou Gabriel Ferreira
 
 - 🔭 Trabalho como Desenvolvedor FullStack
-- 🖥 Estudando Ciência da Computação
+- 🖥 Graduando em Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/Gabriellferreiraoficial">
